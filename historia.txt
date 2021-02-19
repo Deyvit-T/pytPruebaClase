@@ -16,10 +16,6 @@ Primer Podcast:  Timepo en el Sofa
 Podcast Nuevo:  Historias Sueltas
 
 
-
-
-
-
-
-Este es un cambio adicional que agregue en la rama main
+Esta es una line agregada desde otra rama de desarollo
+Posteriormente esto sera fucionado con la rama master que ahora es main
 
