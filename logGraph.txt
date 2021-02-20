@@ -1,0 +1,66 @@
+* commit 5434481c2c0f7224ffabdcd8e45562e20fa81955
+| Author: Deyvit-T <deyvtenjo@gmail.com>
+| Date:   Fri Feb 19 11:44:46 2021 -0500
+| 
+|     Prueba de verificacion,Cambie el editor de texto por defecto a nVim
+|   
+*   commit 866e344965133fe619f4253ff2aa5c762401d701
+|\  Merge: 718a622 142b2ee
+| | Author: Deyvit-T <deyvtenjo@gmail.com>
+| | Date:   Fri Feb 19 11:09:28 2021 -0500
+| | 
+| |     Fix de error de conflicto
+| | 
+| * commit 142b2eeb045adb5790c42b3525d6cf43fe490a4f
+| | Author: Deyvit-T <deyvtenjo@gmail.com>
+| | Date:   Thu Feb 18 19:22:46 2021 -0500
+| | 
+| |     MOdificacion de la rama alterna del branch
+| | 
+* | commit 718a622c8836508284db63fc50ba9ff75d581092
+| | Author: Deyvit-T <deyvtenjo@gmail.com>
+| | Date:   Fri Feb 19 11:01:40 2021 -0500
+| | 
+| |     Nuevo archivo a nueva linea en historia
+| | 
+* | commit d64b70349d36e19162bdb3a02817b44ff0e514cc
+|/  Author: Deyvit-T <deyvtenjo@gmail.com>
+|   Date:   Thu Feb 18 18:57:00 2021 -0500
+|   
+|       Corregir typos
+| 
+* commit e7068ccda17c1d61649df77f17f6f096a8311df8
+| Author: Deyvit-T <deyvtenjo@gmail.com>
+| Date:   Thu Feb 18 18:25:47 2021 -0500
+| 
+|     commit con am
+| 
+* commit 1ad1ff46031f1ff51a8ab2cd71d98469d7e6e02b
+| Author: Deyvit-T <deyvtenjo@gmail.com>
+| Date:   Thu Feb 18 13:51:13 2021 -0500
+| 
+|     Se agregaron un par de proyectos a la historia
+| 
+* commit f00b9ab8e506c6f84ac89c3d3a320f35dff22ae5
+| Author: Deyvit-T <deyvtenjo@gmail.com>
+| Date:   Thu Feb 18 13:48:59 2021 -0500
+| 
+|     Agrege un archivo C con un print de Hola Mundo
+| 
+* commit 90fe6d2d0086f07bbb4535e57b15f60bbf5bce33
+| Author: Deyvit-T <deyvtenjo@gmail.com>
+| Date:   Thu Feb 18 13:19:11 2021 -0500
+| 
+|     Se agrego prosedencia y se cambio la redaccion
+| 
+* commit 413a5829740da934a0f96ae8f05f5b7ee36b636e
+| Author: Deyvit-T <deyvtenjo@gmail.com>
+| Date:   Tue Feb 16 19:20:56 2021 -0500
+| 
+|     Agrego introduccion de la historia
+| 
+* commit 33725a600c727cc8c375578e5bd741053072c16c
+  Author: Deyvit-T <deyvtenjo@gmail.com>
+  Date:   Tue Feb 16 19:11:42 2021 -0500
+  
+      Primer commit, primer archivo
